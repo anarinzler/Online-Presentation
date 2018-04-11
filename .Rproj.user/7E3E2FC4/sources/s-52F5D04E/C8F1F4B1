@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523043571553.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C8F1F4B1",
+    "lastKnownWriteTime" : 1523411695,
+    "last_content_update" : 1523411695735,
+    "path" : "~/Desktop/Online Presentation/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "112,139",
+        "last_setup_crc32" : "52F5D04Ee907aa8d",
+        "scrollLine" : "108",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

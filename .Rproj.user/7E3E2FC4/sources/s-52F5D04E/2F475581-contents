@@ -1,0 +1,163 @@
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+background-position: 50% 50%
+  class: center, bottom, inverse
+
+?xaringan
+
+---
+  # Appropriateness of Analyses (con'd) 
+  ### ANOVA
+  
+  To me this suggests:
+  - ANOVA may have been a good 'jumping off point' but that it added complexity.
+- However, it revealed biases in word reporting (which end up being very important). 
+
+Overall, the analyses seemed appropriate, but ad-hoc. They did not clearly outline a theoretical motivation for the following:   
+  
+  ---
+  # Appropriateness of Analyses (con'd)   
+  **Signal Detection**  
+  
+  This analyses seemed necessary (and thus appropriate) to fully understand the data, because it helped determine why bias in word-reporting occured; however thye only did it because of the ANOVA results. 
+
+**Stepwise Regression # 1**  
+
+It seems like they first did a forward selection (adding variables as they went along). It is unclear why they entered rhyme awareness into the model first. 
+
+
+**Stepwise regression # 2**  
+
+I am not sure how apporpriate it is use to use a _d'_ (specifically that of word reporting) as a criterion in a stepwise regression. This also applies to the above regression.  
+
+--- 
+# Appropriateness of Analyses (con'd)  
+
+**Stepwise regression # 3**  
+
+I understand why they conducted this analysis (to understand if word-reporting influenced word-compensation), but again, I am not sure if it is appropriate to use a _d'_ (i.e. word-compensation) as a criterion. 
+
+
+---
+# Novelty of Analyses   
+As mentioned, they conducted a Wilcoxon signed ranks _t_ test, which was new to me.  
+
+They did not explain _why_ they used this analysis; perhaps it is because the population is not normally distributed (?)    
+
+In addition, the signal detection analysis was also new
+I mentioned previously why they did it (to understand the reporting bias) and how (in the signal detection description).   
+
+
+--- 
+
+
+# What Analysis would I do?  
+
+With the design and data they were given, it seemed like they did the appropriate analyses. 
+
+However, I would consider using a generalized mixed linear regression. I suggest this because:
+- The study has continous and categorical variables
+- For the continous variables (measures on tasks): I would use for just categorizing and not as predictors because they claim that assimilation task answers key question: are phonological representations degraded?  
+- Instead, they could use binary coding as whether they responded to the target (1) or not (0). 
+
+- Categorical variables could have been dummy coding for the groups (there was theoretical motivation for which group could be used as a reference; as per their prediction)
+- Thus, I would use dyslexia as the reference 
+
+
+---
+# What Analysis would I do?  
+**Problems**
+- The word-reporting task (main measure of place assimilation) had three- categorical levels (viable, unviable and no change)
+
+**Potential Solution**
+- Utilizing another measure from their language task as my 
+
+
+---
+# Appropriatness of Explanation  
+
+- I believe they explained the original 3x6 ANOVA well, as well as the second 3x6 ANOVA with the covariate or word-reporting _d_
+
+- Additionally, the explanation for the signal detection was fairly clear;  
+
+- The only explanation that was potentially unclear was the stepwise regressions, as I mention previously.  
+
+
+---
+
+
+# Appropriateness of Interpretation  
+
+**The ANOVA interpretation** was interpretated appropriately, as they did not try to draw conclusions when they found two main effects and an interaction.   
+
+** The signal detection** to my knowledge was interpretated appropriately  
+**Stepwise regression** interpretation also seemed appropriate.  
+
+Overall, the interpretation seemed to be accurate in result to their prediction: that dyslexic only group would perform similar to controls 
+
+
+
+--- 
+# Appropriateness of Tables/Graphs  
+
+There were many tables and two graphs throughout the article. The tables aided in understanding the different scores on the categorization tests (i.e. how participants were categorized into groups), the _d_ values, the percentage for reporting the target word, and what the materials for the experiment were. 
+
+
+**However**, especially useful was a box plot  which demonstrated the difference  in bias values. 
+
+
+---
+# Appropriateness of Tables/Graphs  
+**Unfortunately** there was a bar graph; which demonstrated word-reporting _d_ and compensation _d_ for each group. It did not really highlight _why_ SLI only performed poorly on compensation _d_.   
+
+I suggest this because:  
+
+- Just by looking at the graph, word-reporting was highest for dyslexia only; one would anticipate that it would be highest for SLI only
+
+
+
+---
+# Opinion: What I liked   
+
+- Overall, found the study to be very interesting  
+
+- I do believe that they contributed to the phonological insight of children with Dyslexia and how they may be different from children with SLI in regards to phonological representations  
+
+
+
+---
+# Opinion, woah stats...  
+### Areas for improvement   
+
+It left me with the question: _did the experimental conditions truly get at phonological representations?_   
+
+- There were many stats that seemed to feed off of each other in an ad-hoc way. 
+Seemed to be more like EDA than hypothesis testing, even though the authors laid out a hypothesis as well as predictions.  
+
+- The task itself seemed difficult; and this difficulty must have impacted performance  
+
+- This is suggested in bias measurements, and discrepencies between word-reporting and word-compensation.  
+
+- The authors however, tried reconcile this task difficulty with additional statistics  
+
+
+---
+# Opinion (con't)   
+
+I do believe that there may not be a degraded phonological representation in dyslexia and SLI, as originally posited; however, I am not as convinced that assimilation processes are fully intact.  
+
+
+---
+  # Appendix A:
+  ![](pic_task.png)
+---
+  #Appendix B:
+  ![](appen_b.png)
+
+---
+  # Novelty of Analyses   
+  - As mentioned, they conducted a Wilcoxon signed ranks _t_ test, which was new to me.  
+
+- They did not explain _why_ they used this analysis; perhaps it is because the population is not normally distributed (?)  
+
+- In addition, the signal detection analysis was also new
+I mentioned previously why they did it (to understand the reporting bias) and how (in the signal detection description)

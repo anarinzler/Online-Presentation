@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523043980435.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2F475581",
+    "lastKnownWriteTime" : 4506379616,
+    "last_content_update" : 1523409765138,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "148,0",
+        "scrollLine" : "148",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
